@@ -1,0 +1,59 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+</style>
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image:url(cup.jpeg) ;
+    background-position: top;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    margin-bottom: 150px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.header h2{
+    font-size: 5vmin;
+}
+
+.header h1{
+    font-size: 6vmin;
+}
+
+.line{
+    width: 150px;
+    height: 4px;
+    background: rgb(0, 0, 0);
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+.header{
+    font-size: 4vmin;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.ctn{
+    padding: 8px 15px;
+    background:whitesmoke ;
+    border-radius: 30px;
+    color: black;
+}
+
+
+
